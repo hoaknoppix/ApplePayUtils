@@ -1,5 +1,6 @@
 # ApplePayUtils
-![alt text](https://travis-ci.com/hoaknoppix/ApplePayUtils.svg?branch=master)[![Language grade: Java](https://img.shields.io/lgtm/grade/java/g/hoaknoppix/ApplePayUtils.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/hoaknoppix/ApplePayUtils/context:java)[![Total alerts](https://img.shields.io/lgtm/alerts/g/hoaknoppix/ApplePayUtils.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/hoaknoppix/ApplePayUtils/alerts/)
+![alt text](https://travis-ci.com/hoaknoppix/ApplePayUtils.svg?branch=master)[![Language grade: Java](https://img.shields.io/lgtm/grade/java/g/hoaknoppix/ApplePayUtils.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/hoaknoppix/ApplePayUtils/context:java)[![Total alerts](https://img.shields.io/lgtm/alerts/g/hoaknoppix/ApplePayUtils.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/hoaknoppix/ApplePayUtils/alerts/)[![codecov](https://codecov.io/gh/hoaknoppix/ApplePayUtils/branch/master/graph/badge.svg)](https://codecov.io/gh/hoaknoppix/ApplePayUtils)
+
 
 This is the java util to decrypt apple payload data from iOS.
 
